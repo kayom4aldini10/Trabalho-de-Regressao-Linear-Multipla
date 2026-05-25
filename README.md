@@ -1,0 +1,1 @@
+Fiz um trabalho para a faculdade na matéria de Estatística 3. Envolve a Aplicação de Regressão Linear Múltipla em R, envolvendo importação e limpeza dos dados, análise exploratória, ajuste do modelo, diagnóstico por resíduos e geração de predições em arquivo CSV.
